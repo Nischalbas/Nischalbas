@@ -1,4 +1,4 @@
-### Hi, I'm Nischal
+### I'm Nischal Basyal. This is my github account
 
 <!--
 **Nischalbas/Nischalbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
