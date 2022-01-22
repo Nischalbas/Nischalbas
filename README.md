@@ -1,5 +1,5 @@
-### I'm Nischal Basyal. This is my github account
-# Much of what I do here is private
+## I'm Nischal Basyal. This is my github account
+### Much of what I do here is private
  </div>
 
 <!--
